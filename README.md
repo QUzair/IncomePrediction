@@ -17,4 +17,4 @@ Hair Color |
 Body Height [cm] |
 Income |
 
-![alt text](https://github.com/QUzair/IncomePrediction/new/master/corr.png)
+![alt text](https://github.com/QUzair/IncomePrediction/corr_attr.png)
